@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="winha">Winha</string>
+    <string name="winha_info">Tämä ominaisuus on vielä kehityksessä. Tämän hetkinen toimivuus rajoittuu suoritettujen kurssien hakemiseen WinhaWillestä, keskiarvon laskemiseen ja arvosanajakauman piirtoon.</string>
+    <string name="winha_please_wait">Ole hyvä ja odota…</string>
+    <string name="results">Tulokset</string>
+    <string name="gpa">Keskiarvo</string>
+    <string name="winha_courses">Kurssit</string>
+    <string name="sort">Järjestä</string>
+    <string name="login">Kirjaudu</string>
+    <string name="remember_password">Muista salasana</string>
+    <string name="password">Salasana</string>
+    <string name="remember_username">Muista käyttäjätunnus</string>
+    <string name="username">Käyttäjätunnus</string>
+    <string name="fill_empty_fields">Täytä tyhjät kentät!</string>
+    <string name="developer_email_feedback">Palaute: juha.ala-rantala@seamk.fi</string>
+    <string name="fetching_login_page">Haetaan kirjautumissivu…</string>
+    <string name="logging_in">Kirjaudutaan…</string>
+    <string name="fetching_side_page">Haetaan päävalikko…</string>
+    <string name="fetching_personal_data">Haetaan henkilötiedot…</string>
+    <string name="loading_hops">Haetaan suoritukset…</string>
+    <string name="calculating_scores">Lasketaan pisteet…</string>
+    <string name="done">Valmis!</string>
+    <string name="winha_unkown_error">Tapahtui tuntematon virhe:</string>
+    <string name="winha_no_internet">Tapahtui virhe: Ei internet-yhteyttä.</string>
+    <string name="winha_time_out">Tapahtui virhe: Palvelin ei vastannut.</string>
+    <string name="winha_invalid_password">Tapahtui virhe: Tunnus tai salasana on väärä.</string>
+    <string name="credits">Opintopisteet</string>
+    <string name="sdefault">Oletus</string>
+    <string name="latest_first">Uusin ensin</string>
+    <string name="oldest_first">Vanhin ensin</string>
+    <string name="highest_grade">Korkein arvosana</string>
+    <string name="lowest_grade">Matalin arvosana</string>
+
+    <string name="agreement">Ehdot</string>
+    <string name="agreement_explanation">Muutama sanan ennenkuin alat käyttämään sovellusta:</string>
+    <string name="agreement_first">• Tämä sovellus ei ole SeAMK:n tarjoama tai valvoma sovellus. SeAMK ei ole vastuussa tästä sovelluksesta.</string>
+    <string name="agreement_second">• Sovellus on täysin vapaa-ajan tuotos, eikä sen ylläpito ole taattu.</string>
+    <string name="agreement_third">• Sovellus ei kerää mitään tietoja sinusta, kaikki kommunikointi on puhelimesi ja WinhaWille palvelimen välillä.</string>
+    <string name="agreement_fourth">• Tuki, kehitysideat ja muun palautteen voit lähettää kehittäjälle osoitteeseen juha.ala-rantala@seamk.fi.</string>
+    <string name="agreement_button">Olen lukenut ja ymmärrän käyttöehdot</string>
+</resources>

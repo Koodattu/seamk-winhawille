@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name" translatable="false">SeAMK WinhaWille</string>
+    <string name="developer_email_feedback">Feedback: juha.ala-rantala@seamk.fi</string>
+    <string name="app_version" translatable="false">SeAMK WinhaWille v0.6</string>
+
+    <string name="winha">Winha</string>
+    <string name="winha_info">This feature is still a work in progress. \n\nIt currently only fetches your courses from WinhaWille, calculates your gpa and graphs your grade distribution.</string>
+    <string name="winha_please_wait">Please wait while we fetch the data…</string>
+    <string name="results">Results</string>
+    <string name="gpa">GPA</string>
+    <string name="winha_courses">Courses</string>
+    <string name="sort">Sort:</string>
+    <string name="login">Login</string>
+    <string name="remember_password">Remember password</string>
+    <string name="password">Password</string>
+    <string name="remember_username">Remember username</string>
+    <string name="username">Username</string>
+    <string name="credits">Credits</string>
+    <string name="winha_invalid_password">Error occurred: Password might be invalid.</string>
+    <string name="winha_time_out">Error occurred: Server didn\'t respond.</string>
+    <string name="winha_no_internet">Error occurred: No internet connection.</string>
+    <string name="winha_unkown_error">Unknown error occurred:</string>
+    <string name="done">Done!</string>
+    <string name="calculating_scores">Calculating scores…</string>
+    <string name="loading_hops">Loading HOPS…</string>
+    <string name="fetching_personal_data">Fetching personal data…</string>
+    <string name="fetching_side_page">Fetching side page…</string>
+    <string name="logging_in">Logging in…</string>
+    <string name="fetching_login_page">Fetching login page…</string>
+    <string name="fill_empty_fields">Fill empty fields!</string>
+    <string name="sdefault">Default</string>
+    <string name="latest_first">Latest First</string>
+    <string name="oldest_first">Oldest First</string>
+    <string name="highest_grade">Highest Grade First</string>
+    <string name="lowest_grade">Lowest Grade First</string>
+
+    <string name="agreement">Agreement</string>
+    <string name="agreement_explanation">Some words before you start using the application. </string>
+    <string name="agreement_first">• This application is not offered or supervised by SeAMK. SeAMK is not responsible for this application.</string>
+    <string name="agreement_second">• The application is completely made as a free time project, and is not guaranteed to receive further updates.</string>
+    <string name="agreement_third">• This application does not collect any data about you, all communication is between your phone and WinhaWille server.</string>
+    <string name="agreement_fourth">• Support, development ideas and other feedback can be sent to the developer at juha.ala-rantala@seamk.fi.</string>
+    <string name="agreement_button">I have read and understood the terms</string>
+</resources>

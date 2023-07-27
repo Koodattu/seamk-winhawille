@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="overview" type="id">Overview</item>
+    <item name="fa_teacher_item" type="id" />
+    <item name="fa_student_group_item" type="id" />
+    <item name="fa_basket_student_group_item" type="id" />
+    <item name="fa_basket_teacher_item" type="id" />
+    <item name="fa_basket_realization_item" type="id" />
+    <item name="fa_basket_realization_child_item" type="id" />
+    <item name="fa_basket_search_student_group_item" type="id" />
+    <item name="fa_basket_search_teacher_item" type="id" />
+    <item name="fa_basket_search_realization_item" type="id" />
+    <item name="fa_basket_search_realization_child_item" type="id" />
+    <item name="fa_extras_link_item" type="id" />
+    <item name="fa_extra_item" type="id" />
+    <item name="fa_premium_info_item" type="id" />
+    <item name="fa_premium_product_item" type="id" />
+    <item name="fa_string_color_icon_item" type="id" />
+    <item name="fa_find_item" type="id" />
+    <item name="fa_room_item" type="id" />
+    <item name="fa_search_realization_item" type="id" />
+    <item name="fa_winha_course_item" type="id" />
+</resources>

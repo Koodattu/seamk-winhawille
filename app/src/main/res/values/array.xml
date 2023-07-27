@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="restaurantName" translatable="false">
+        <item>Frami F, Sodexo, SeAMK</item>
+        <item>Eventti, Seinäjoki Areena, B-Halli</item>
+        <item>Ilmajoentie, Sodexo, Sedu</item>
+        <item>Koskenalantie, Sodexo, Sedu</item>
+        <item>Kampustalo, Sodexo, SeAMK</item>
+    </string-array>
+
+    <string-array name="restaurantCode" translatable="false">
+        <item>873</item>
+        <item>69</item>
+        <item>1401</item>
+        <item>1404</item>
+        <item>874</item>
+    </string-array>
+
+    <string-array name="sort_by_array">
+        <item>@string/sdefault</item>
+        <item>@string/latest_first</item>
+        <item>@string/oldest_first</item>
+        <item>@string/highest_grade</item>
+        <item>@string/lowest_grade</item>
+    </string-array>
+
+
+    <string-array name="timePickerSpinner" translatable="false">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EC0C2E</color>
+    <color name="colorPrimaryDark">#b20b24</color>
+    <color name="colorAccent">#03ADFA</color>
+    <color name="seamkGreen">#1fb43a</color>
+    <color name="seamkBlue">#00bce1</color>
+    <color name="checkedGreen">#17c400</color>
+    <color name="grayedOut">#7e7e7e</color>
+    <color name="transparentBlack">#837e7e7e</color>
+    <color name="disabledButton">#000000</color>
+    <color name="enabledButton">#FFD5D6D6</color>
+    <color name="thisReservation">#e4c900</color>
+    <color name="defaultButton">#03ADFA</color>
+    <color name="extrasGoldColor">#ffbb33</color>
+    <color name="extrasGoldColorDark">#d99f2c</color>
+    <color name="pureWhite">#FFFFFF</color>
+    <color name="errorRed">#ff5252</color>
+    <color name="winhaRed">#EC0C2E</color>
+    <color name="drawableGray">#868686</color>
+    <color name="orange">#FE9700</color>
+</resources>

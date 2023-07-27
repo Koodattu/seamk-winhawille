@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    card_view:cardMaxElevation="2dp"
+    card_view:cardElevation="2dp"
+    android:layout_marginTop="2dp"
+    android:layout_marginLeft="0dp"
+    android:layout_marginRight="0dp"
+    card_view:cardCornerRadius="0dp"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+<RelativeLayout
+    android:background="#f5f5f5"
+    android:padding="4dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="4dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/name"
+            android:text="Algoritmit- ja tiedonkäsittely"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+            android:textSize="18sp" />
+
+        <com.tolstykh.textviewrichdrawable.TextViewRichDrawable
+            android:id="@+id/code"
+            android:text="KL04BT40110"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:drawablePadding="4dp"
+            android:textSize="14sp"
+            android:drawableStart="@drawable/ic_code"
+            android:drawableLeft="@drawable/ic_code"
+            app:compoundDrawableHeight="20dp"
+            app:compoundDrawableWidth="20dp" />
+
+        <com.tolstykh.textviewrichdrawable.TextViewRichDrawable
+            android:id="@+id/credits"
+            android:text="3,00 OP"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textSize="14sp"
+            android:drawablePadding="4dp"
+            android:drawableStart="@drawable/ic_credit_card"
+            android:drawableLeft="@drawable/ic_credit_card"
+            app:compoundDrawableHeight="20dp"
+            app:compoundDrawableWidth="20dp" />
+
+        <com.tolstykh.textviewrichdrawable.TextViewRichDrawable
+            android:id="@+id/teacher"
+            android:text="Petteri Mäkelä"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textSize="14sp"
+            android:drawablePadding="4dp"
+            android:drawableLeft="@drawable/ic_teacher"
+            android:drawableStart="@drawable/ic_teacher"
+            app:compoundDrawableHeight="20dp"
+            app:compoundDrawableWidth="20dp" />
+
+        <com.tolstykh.textviewrichdrawable.TextViewRichDrawable
+            android:id="@+id/time"
+            android:text="28.08.2017"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textSize="14sp"
+            android:drawablePadding="4dp"
+            android:drawableLeft="@drawable/ic_calendar"
+            android:drawableStart="@drawable/ic_calendar"
+            app:compoundDrawableHeight="20dp"
+            app:compoundDrawableWidth="20dp" />
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_centerInParent="true">
+
+        <android.support.v7.widget.AppCompatImageView
+            android:id="@+id/image"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="12dp"
+            android:layout_marginEnd="12dp"
+            android:padding="8dp"
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:tint="@color/theme_accent"
+            app:srcCompat="@drawable/ic_single_ring_opt"/>
+
+        <TextView
+            android:id="@+id/grade"
+            android:textColor="@android:color/black"
+            android:layout_centerInParent="true"
+            android:textSize="48sp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="5"/>
+
+
+    </RelativeLayout>
+</RelativeLayout>
+</android.support.v7.widget.CardView>
